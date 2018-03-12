@@ -1,8 +1,28 @@
 body{
  background-color: #132d56; 
+ font-family: Verdana, Geneva, sans-serif;
 }
 #title{
   color: white;
   text-align: center;
 }
-
+#uranus{
+  color: white;
+  text-align: center;
+}
+#neptune{
+  color: white;
+  text-align: center;
+}
+#saturn{
+  color: white;
+  text-align: center;
+}
+#jupiter{
+  color: white;
+  text-align: center;
+}
+#table{
+ color: white;
+ text-alighn: center;
+}
